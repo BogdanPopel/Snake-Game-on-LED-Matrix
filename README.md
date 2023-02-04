@@ -1,6 +1,8 @@
 # Snake-Game-on-LED-Matrix
 
 This is the last homework for the Introduction to Robotics course taken in the third year of the Faculty of Mathematics and Computer Science, University of Bucharest. The biggest challenge is represented by the fact that i had to combine almost everything i studied for this particular course.
+
+
 •Components:
   - 8 x 8 LED Matrix
   

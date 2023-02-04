@@ -58,7 +58,7 @@ This is the last homework for the Introduction to Robotics course taken in the t
   
   - 10-39 -> 6 slots for the 6 names of the 6 members of the leaderboard. each name has a length of 5
     
-#### The full [code](https://github.com/BogdanPopel/IntroductionToRobotics/tree/main/SnakeGame) is here.
+#### The full [code](https://github.com/BogdanPopel/Snake-Game-on-LED-Matrix/tree/main/Code) is here.
 #### [Video demonstration](https://youtu.be/NwKj02ZCcmk)
 
 <details>

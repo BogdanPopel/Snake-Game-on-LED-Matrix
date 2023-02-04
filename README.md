@@ -61,8 +61,9 @@ This is the last homework for the Introduction to Robotics course taken in the t
 #### The full [code](https://github.com/BogdanPopel/Snake-Game-on-LED-Matrix/tree/main/Code) is here.
 #### [Video demonstration](https://youtu.be/NwKj02ZCcmk)
 
+## The end product:
 <details>
-<summary>This what the end product looks like:</summary>
+<summary>Pictures:</summary>
 
 ![WhatsApp Image 2022-12-22 at 10 13 18 (1)](https://user-images.githubusercontent.com/79463256/209093363-efcb0797-af91-42e4-9c62-15c48c762d83.jpeg)![WhatsApp Image 2022-12-22 at 10 13 17 (1)](https://user-images.githubusercontent.com/79463256/209093375-b38f23c2-b201-4a5b-8d69-0d1974b01873.jpeg)
 

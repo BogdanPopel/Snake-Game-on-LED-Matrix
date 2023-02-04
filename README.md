@@ -3,7 +3,7 @@
 This is the last homework for the Introduction to Robotics course taken in the third year of the Faculty of Mathematics and Computer Science, University of Bucharest. The biggest challenge is represented by the fact that i had to combine almost everything i studied for this particular course.
 
 
-•Components:
+## Components:
   - 8 x 8 LED Matrix
   
   - 2 x Breadboard
@@ -26,7 +26,7 @@ This is the last homework for the Introduction to Robotics course taken in the t
   
   - resistors and wires per logic
   
-•Technical Task:
+## Technical Task:
   
   The task consists in creating a mini-game using a led matrix, a lcd screen and a joystick which is as intuitive, complete and fun as possible. The game i chose is Snake, which involves a moving dot that eats randomly spawned blinking dots, the snake growing in size by doing so.
   
@@ -38,14 +38,14 @@ This is the last homework for the Introduction to Robotics course taken in the t
     
     - Hard: the snake starts at a high speed and you have blocking walls
 
-•Coding task: Coding style is of utmost importance.
+## Coding task: Coding style is of utmost importance.
 
   The system encapsulates manny states which are changed by controlling the menu:
     - the general idea is that each main menu item is a state
     - everything in this project depends on the state of the system
     
     
-  EEPROM:
+  ### EEPROM:
   The internal memory's slots are organised like this:
   
   - 1 -> LCD Brightness
